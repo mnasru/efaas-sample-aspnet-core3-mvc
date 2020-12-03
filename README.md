@@ -8,5 +8,5 @@ Efaas Settings:
 
 * Application Type: web-backchannel 
 * Authentication Grant Type: Hybrid
-* Post Login Redirect Url: https://<your app url>/signin-oidc
-* Post Logout Redirect Url: https://<your app url>/signout-callback-oidc 
+* Post Login Redirect Url: https ://<your app url>/signin-oidc
+* Post Logout Redirect Url: https ://<your app url>/signout-callback-oidc 
