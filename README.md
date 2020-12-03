@@ -4,7 +4,7 @@
 
 More about eFaas - http://efaas.egov.mv/
 
-**Efaas Settings: **
+Efaas Settings:
 
 * Action Type: web-backchannel 
 * Authentication Grant Type: Hybrid
